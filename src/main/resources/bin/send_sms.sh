@@ -1,0 +1,3 @@
+java -cp "/c/home/dtekeshe/github.com/tradanet/backend/target/airwide-marketplace-backend/WEB-INF/lib/*" za.co.airwide.marketplace.messaging.SendSMS
+
+java -cp /c/home/dtekeshe/github.com/tradanet/backend/target/airwide-marketplace-backend/WEB-INF/lib/airwide.jar:/c/home/dtekeshe/github.com/tradanet/backend/target/airwide-marketplace-backend/WEB-INF/lib/gson-2.8.6.jar za.co.airwide.marketplace.messaging.SendSMS

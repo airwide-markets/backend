@@ -1,0 +1,324 @@
+Buy/Sell;;;;
+Main Category;Type;Model;Class;Make (search engine)
+Vehicles;Motor Vehicles;Cars;Sedan;AC Cars
+;;;Hatchback;Acura
+;;;MPV;Alfa Romeo
+;;;SUV;Alpine
+;;;Crossover;Alvis
+;;;Coupe;AMC 
+;;;Convertible;Anadol
+;;;Single Cab;ARO
+;;;Double Cab;Artega
+;;;King Cab;Asia Motors
+;;;;Aston Martin
+;;;;Audi
+;;;;Autobianchi
+;;;;Auto-Union
+;;;;Bentley
+;;;;Bitter
+;;;;BMW
+;;;;Bond
+;;;;Borgward 
+;;;;Bristol
+;;;;British Leyland
+;;;;Austin-Healey
+;;;;Austin / Rover
+;;;;Bugatti
+;;;;Buick
+;;;;Cadillac
+;;;;Caterham
+;;;;Checker
+;;;;Chevrolet
+;;;;Chevrolet Korea
+;;;;Chevrolet India
+;;;;Chrysler
+;;;;Citroën
+;;;;Cizeta-Moroder
+;;;;Dacia
+;;;;Daewoo 
+;;;;DAF
+;;;;Daihatsu
+;;;;Datsun
+;;;;Delahaye
+;;;;DeLorean
+;;;;DeSoto
+;;;;De Tomaso
+;;;;Dodge
+;;;;Edsel
+;;;;Eicher Polaris
+;;;;Facel Vega
+;;;;Ferrari
+;;;;Fiat
+;;;;Fiat do Brasil
+;;;;Fiat India
+;;;;Fisker
+;;;;Ford America
+;;;;Ford Australia
+;;;;Ford do Brasil
+;;;;Ford Europe
+;;;;Ford India
+;;;;FSO
+;;;;GAZ
+;;;;Geo
+;;;;Glas
+;;;;GMC
+;;;;GTA Spano
+;;;;Gumpert
+;;;;Hillman
+;;;;Hindustan
+;;;;Holden
+;;;;Honda
+;;;;Honda India
+;;;;Hudson
+;;;;Hummer
+;;;;Hyundai
+;;;;IFA 
+;;;;Infiniti
+;;;;Innocenti
+;;;;Isdera
+;;;;ISO
+;;;;Isuzu
+;;;;Iveco
+;;;;Jaguar
+;;;;Jeep
+;;;;Jensen
+;;;;Kia
+;;;;Koenigsegg
+;;;;Lada
+;;;;Lamborghini
+;;;;Lancia
+;;;;Land Rover
+;;;;Lexus
+;;;;Lincoln
+;;;;Lotus
+;;;;LTI
+;;;;LuAZ
+;;;;Lynx
+;;;;Mahindra
+;;;;Maruti
+;;;;Maserati
+;;;;Matra
+;;;;Mazda
+;;;;McLaren
+;;;;Mercedes 
+;;;;Mercury
+;;;;Merkur
+;;;;Messerschmitt
+;;;;Mini
+;;;;Mitsubishi
+;;;;Monteverdi
+;;;;Morgan
+;;;;Moskvitch
+;;;;Nash
+;;;;Naza
+;;;;Nissan
+;;;;Nissan India
+;;;;NSU
+;;;;Oldsmobile
+;;;;Oltcit / Oltena
+;;;;Opel
+;;;;Pagani
+;;;;Panhard
+;;;;Panoz
+;;;;Panther
+;;;;Perodua
+;;;;Peugeot
+;;;;Plymouth
+;;;;Pontiac
+;;;;Porsche
+;;;;Premier
+;;;;Proton
+;;;;Reliant
+;;;;Renault
+;;;;Rolls-Royce
+;;;;Saab
+;;;;Saleen
+;;;;Samsung
+;;;;San
+;;;;Santana
+;;;;Saturn
+;;;;Scion
+;;;;Seat
+;;;;Shelby SuperCars
+;;;;Simca / Talbot
+;;;;Skoda
+;;;;Smart
+;;;;Spyker
+;;;;SsangYong
+;;;;Standard-Triumph
+;;;;Studebaker
+;;;;Subaru
+;;;;Suzuki
+;;;;Tata
+;;;;Tatra
+;;;;Tesla
+;;;;Toyota
+;;;;Toyota India
+;;;;UAZ
+;;;;Vauxhall
+;;;;Venturi
+;;;;Volkswagen
+;;;;Volkswagen do Brasil
+;;;;Volkswagen South Africa
+;;;;Volvo
+;;;;Wiesmann
+;;;;Zastava
+;;;;ZAZ
+;;;;ZIL
+;;;;
+Main Category;Type;Model;Class;
+Vehicles;Motor Vehicles;Trucks;Speciality Trucks;
+;;;Heavy Load Truck;
+;;Buses;Double Decker Bus;
+;;;Single Deck Bus;
+;;;Low Floor Bus;
+;;;Coach;
+;;;Minibus;
+;;;Open Top Bus;
+;;;School Bus;
+;;;Midi Bus;
+;;;School Bus;
+;;;Mini Bus;
+;;;Articulated Bus;
+;;;;
+Main Category;Type;Model;Class;
+Vehicles;Water Craft;Ship;Cargo Ship;
+;;;RoRo (Roll on Roll off);
+;;;Tankers;
+;;;Passenger Ship;
+;;;Fishing Vessel;
+;;;High Speed Craft;
+;;Boat;Fishing Boat;
+;;;Dinghy Boat;
+;;;Deck Boat;
+;;;Bowrider Boat;
+;;;House Boat;
+;;;Centre Console Boat;
+;;;Cuddy Cabins Boat;
+;;;Cataraman Boat;
+;;;Trawler Boat;
+;;;Cabin Cruiser Boat;
+;;;;
+Main Category;Type;Class (search engine);;
+Vehicles;Emergency Vehicles;Ambulance;;
+;;Fire Trucks;;
+;;Tow Truck Wrecker;;
+Vehicles;Motor Cycles ;Adventure Touring Bike;;
+;;Choppers;;
+;;Cruisers;;
+;;Enduro Bike;;
+;;Off Road Motorcycle;;
+;;Racing Motorcycle;;
+;;Electric Motorcycle;;
+;;Motocross Bike;;
+;;3 Wheel Motor Cycle;;
+;;4 Wheel Motor Cycle;;
+Vehicles;Scooters;Electric Scooter;;
+;;Uber Scuuter;;
+;;Moped;;
+;;Kick Scooter;;
+;;Handicapped Scooters;;
+Vehicles;Trailers;Car Trailer;;
+;;Boat Watercraft Trailer;;
+;;Commercial Truck Trailer;;
+;;Motorcycle Trailer;;
+;;Truck Trailer;;
+;;;;
+;;;;
+Main Category;Type;Class (search engine);;
+Vehicles;Bicycle;Young Children Bicycle;;
+;;Kids Bicycle;;
+;;Mountain Bicycle;;
+;;Hybrid/Comfort Bicycle;;
+;;Folding Bicyle;;
+;;Adult Tricycle;;
+;;Beach Bicycle;;
+;;Recumbent Bicycle;;
+;;Tandem Bicycle;;
+;;Fixed Gear Bicycle;;
+;;Cyclocross Bicycle;;
+;;BMX Bicycle;;
+;;Time Trial Bicycle;;
+;;Road Bicycle;;
+Vehicles;Air Craft;Jumbo Passenger Jet;;
+;;Mid Size Passenger Jet;;
+;;Light Passenger Jet;;
+;;Passenger Turboprops;;
+;;Cargo Airplanes;;
+;;Very Light Jets;;
+;;Light Business Jets;;
+;;Midsize Business Jets;;
+;;Heavy Business Jets;;
+;;Private Single Engine;;
+;;Twin Turboprops;;
+;;Aerobatic;;
+;;Amphibious;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
